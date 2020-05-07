@@ -3,8 +3,8 @@
 # Steps to setup
 
 ## Step 1: Create virtual environment
-pip install virtualenv
-virtualenv env
+create virual environment : ```pip install virtualenv```
+activate virtual environment : ```virtualenv env```
 
 ## Step 2: Activate virtual environment
 
@@ -17,8 +17,6 @@ For Linux : ```source env/bin/activate```
 Install modules : ``` pip install -r requirements.txts ```
 
 ## Step 4 : Download cascade file ,weights and model and save in folder named extract
-
-```mkdir extract```
 
 ```gdown --id 1C5H4xM2nAo0XBe-naUCc-2SKDpjtxXdb```
 
