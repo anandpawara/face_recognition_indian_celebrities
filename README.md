@@ -3,7 +3,9 @@
 # Steps to setup
 
 ## Step 1: Create virtual environment
+
 create virual environment : ```pip install virtualenv```
+
 activate virtual environment : ```virtualenv env```
 
 ## Step 2: Activate virtual environment
