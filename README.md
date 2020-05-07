@@ -1,4 +1,5 @@
-# face_recognition_indian_celebrities
+# Face recognition using custom dataset
+
 # Steps to setup
 
 ## Step 1: Create virtual environment
