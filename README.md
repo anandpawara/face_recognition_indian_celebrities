@@ -31,4 +31,4 @@ Delete zip file : ```rm extract.zip```
 
 Run python file : ``` python faces_video.py ```
 
-! [output] (output.gif)
+![output] (output.gif)
